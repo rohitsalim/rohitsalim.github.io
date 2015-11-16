@@ -5,9 +5,18 @@
 		position: static !important;
 		top: 0px !important;
 		padding-bottom: 15px;
+		width: 480px !important;
 	}
 	p { 
-		font-size: 1.1em; 
+		font-size: 1.2em; 
+	}
+
+	.main-heading {
+		font-size: 3.5em;
+	}
+
+	h3 {
+		font-size: 2.1em;
 	}
 }
 
